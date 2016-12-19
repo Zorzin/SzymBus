@@ -1,2 +1,3 @@
-# AndroidAutobusy
-Aplikacja służąca do pobierania rozkładu autobusowego ze strony komunikacja.bialystok.pl. Tworzona w xamarinie.
+# Xamarin Android App
+App downloads actual bus schedule for bus stations
+Data downloadaed from komunikacja.bialystok.pl
